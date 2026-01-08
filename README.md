@@ -1,4 +1,4 @@
-# Service Learning Project
+# Service Learning Project: Version Control with Git
 
 1. git clone git@github.com:DJVolin/SLP.git
 2. git checkout 
