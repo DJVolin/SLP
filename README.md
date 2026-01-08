@@ -1,5 +1,5 @@
 # Service Learning Project Version Control with Git
-
+Informative info based on each major git command 
 1. git clone git@github.com:DJVolin/SLP.git
 2. git checkout 
 3. git add
